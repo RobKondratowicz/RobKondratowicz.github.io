@@ -6,6 +6,8 @@ Welcome to my personal website!
 
 Here you find descriptions on my professional projects.
 
+Images coming soon.
+
 ## Augmented Reality Sandbox
 My first research project was to create an augmented reality sandbox for NIU's Geography department. Original design was created by Oliver Kreylos at University of California Davis, link here [ARSandbox](http://idav.ucdavis.edu/~okreylos/ResDev/SARndbox/). The projects was organized by Dr. Thomas Pingel at NIU's geography department and funded by the Student Engagement fund at NIU.
 
