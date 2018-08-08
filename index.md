@@ -22,3 +22,11 @@ I started working for Dr. Papka in his DDI lab doing various projects involving 
 
 ## Dr. Kirk Duffin computer graphics class
 One of my favorite classes at NIU was Dr. Duffin's graphics class. over the course of the semester we were tasked with creating a rudimentary graphics engine in c++. the class covered various topics like drawing algorithms and vertex pipelines. We even covered some topics like texture mapping and shading that we were unable to get to on the project. This class gave an incredible introduction to computer graphics and allowed to continue to study it on my own time without getting lost in the terminology.
+
+## [VR internship at Argonne](argonneinternship.md)
+I work at Argonne for the summer of 2018. My job when I was there was to create a virtual reality tour of their datacenter. We used fusion 360, blender and 
+paint .net to create all the assets for the project. We used Unity 3D, SteamVR, and VRTK to make the environment and make it interactive. a lot of what i learned at argonne was using different tool together, like fusion 360 and blender, and Git and Unity. Here are some pictures of the project towards its completion.
+
+|Mira|Screen Shot|
+|:-:|:-:|
+|![Mira](images/Mira.png)|![Screen Shot](images/ScreenShot.png)
