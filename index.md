@@ -36,5 +36,3 @@ One of my favorite classes at NIU was Dr. Duffin's graphics class. over the cour
 ## [VR internship at Argonne](argonneinternship.md)
 I worked at Argonne for the summer of 2018. My job when I was there was to create a virtual reality tour of their datacenter. We used fusion 360, blender and 
 paint .net to create all the assets for the project. We used Unity 3D, SteamVR, and VRTK to make the environment and make it interactive. a lot of what i learned at argonne was using different tool together, like fusion 360 and blender, and Git and Unity. Here are some pictures of the project towards its completion.
-
-[![Mira](images/Mira.png)](argonneinternship.md)
